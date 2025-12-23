@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "map in the cup",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-23T23:51:44.631716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Map In The Cup",
+      "artist": "AZKi",
+      "has_synced": true,
+      "path": "select/01_Map_In_The_Cup_AZKi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "map in the cup",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/02_map_in_the_cup_AZKi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "map in the cup",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_map_in_the_cup_AZKi.txt"
+    }
+  ]
+}
